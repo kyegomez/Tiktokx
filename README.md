@@ -1,6 +1,4 @@
-# TikTokX: Multi-Modal Self-Supervised Learning for Recommendation (MMSSL)
-
-This is an implementation of the potential tiktok recommendation algorithm with 
+# TikTokX: Multi-Modal Recommentation Algorithm
 
 Tiktok is an advanced multimedia recommender system that fuses the generative modality-aware collaborative self-augmentation and contrastive cross-modality dependency encoding to achieve superior performance compared to existing state-of-the-art multi-model recommenders.
 
