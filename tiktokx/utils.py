@@ -10,7 +10,7 @@ import scipy.sparse as sp
 import torch
 from scipy.parse import csr_matrix
 from sklearn.metrics import roc_auc_score
-from utility.parser import parse_args
+from tiktokx.utils import parse_args
 
 args = parse_args()
 
