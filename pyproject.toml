@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "tiktokx"
+version = "0.1.0"
+description = "The rhythm of algorithms, dancing through recommendation streams."
+authors = ["Kye Gomez <kye@apac.ai>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+numpy = "^1.21"
+scipy = "^1.7"
+torch = "^1.10"
+
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
