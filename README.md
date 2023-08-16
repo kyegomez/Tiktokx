@@ -1,3 +1,6 @@
+[![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
+
+
 # TikTokX: Multi-Modal Recommentation Algorithm
 
 [![GitHub issues](https://img.shields.io/github/issues/kyegomez/tiktokx)](https://github.com/kyegomez/tiktokx/issues) 
