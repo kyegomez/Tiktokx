@@ -31,7 +31,7 @@ To start training and inference:
 
 ```bash
 cd tiktokx
-python main.py --dataset {DATASET}
+python example.py --dataset {DATASET}
 ```
 Supported datasets include `Amazon-Baby`, `Amazon-Sports`, `Tiktok`, and `Allrecipes`.
 
