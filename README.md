@@ -30,7 +30,6 @@ Tiktok is an advanced multimedia recommender system that fuses the generative mo
 To start training and inference:
 
 ```bash
-cd tiktokx
 python example.py --dataset {DATASET}
 ```
 Supported datasets include `Amazon-Baby`, `Amazon-Sports`, `Tiktok`, and `Allrecipes`.
