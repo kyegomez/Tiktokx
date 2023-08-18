@@ -9,6 +9,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from scipy.sparse import csr_matrix
 from torch.nn import init
+
 from tiktokx.utils import build_knn_normalized_graph, build_sim, parse_args
 
 args = parse_args()
